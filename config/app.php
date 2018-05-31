@@ -168,6 +168,7 @@ return [
          * Package Service Providers...
          */
 
+        SleepingOwl\Admin\Providers\SleepingOwlServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
 
         /*
